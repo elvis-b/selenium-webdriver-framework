@@ -1,0 +1,1 @@
+The program will capture any screenshots of failed tests in this folder.
